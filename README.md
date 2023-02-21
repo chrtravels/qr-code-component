@@ -17,6 +17,8 @@ See the link below for the final component screenshot
 
 Hosted the final on Github pages, for ease of viewing
 
+https://chrtravels.github.io/qr-code-component/
+
 ## My process
 
 Simple layout with html/css, using flexbox for centering the component and component elements.
