@@ -36,7 +36,8 @@ body {
   text-align: center;
 }
 
-h2 {
+h1 {
+  font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 0;
   margin: 1em .5em .5em .5em;;
@@ -44,7 +45,7 @@ h2 {
 
 p {
   color: hsl(220, 15%, 55%);
-  font-size: 15px;
+  font-size: .973;
   font-weight: 400;
   padding: .2em 1.2em 1em 1.2em;
 }
